@@ -5,7 +5,7 @@ start of computer languages ' study
 例如，我们学习C#，第一个例子的代码如下：
 using System
 public class Program{
-static void Main(){
+static void Main(string args[]){
 Console.WriteLine("Hello,the World !");
 }
 }
